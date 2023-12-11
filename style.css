@@ -238,7 +238,7 @@ body,html{
 /* media query for main and band section */
 @media screen and (min-width:40rem){
     .band-overview{
-        background:url('pika.gif') center/cover no-repeat;
+        background:url('pika.gif.png') center/cover no-repeat;
         height: calc(60vh - 40px);
     }
     .band-overview .band-overview__title{
